@@ -49,12 +49,11 @@ Character class defines a set of characters, that can occur in an input string f
 
 ### The OR Operator
 
-The 
+The OR operator or logical OR is used to match characters or expression of either the left or right operator.
+- `|` ex. (n|N) will match n or N from the input string.  
 
-### Flags
-
-### Character Escapes
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Thank you for viewing my REGEX Tutorial. View some of my oher respitories through my github https://github.com/Nvaldovinos
+
